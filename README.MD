@@ -78,6 +78,5 @@ Queremos expresar nuestro agradecimiento a las siguientes personas e institucion
 
 - A DUOC por brindarnos la oportunidad de cursar el ramo, incluso cuando nuestra sede no lo ofrecía inicialmente. Su compromiso con la formación de los estudiantes ha sido fundamental para nuestro aprendizaje.
 - Al profesor Alvaro Ignacio Torres Mendoza por su dedicación y disposición para aclarar nuestras dudas, incluso fuera del horario de clases y durante los fines de semana. Su guía y conocimiento han sido invaluables para el éxito de este proyecto.
-- A ChatGPT por proporcionar la capacidad de generar este README. Hemos hecho nuestro mejor esfuerzo para utilizarlo de manera responsable y no depender completamente de él para generar código, permitiéndonos aprender y mejorar nuestras habilidades.
 
 Agradecemos profundamente a todos los mencionados por su valioso apoyo, el cual ha sido crucial en nuestro camino de aprendizaje y desarrollo profesional.
